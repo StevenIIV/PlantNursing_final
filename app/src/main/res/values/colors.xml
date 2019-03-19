@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00000000</color>
+    <color name="colorPrimaryDark">#00000000</color>
+    <color name="colorAccent">#FFFF8800</color>
+    <color name="colorHPGreen">#ff669900</color>
+    <color name="colorHPOrange">#FFFF8800</color>
+    <color name="colorHPRed">#ffcc0000</color>
+</resources>
